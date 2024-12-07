@@ -1,0 +1,10 @@
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\bin\Debug\BTVN_LTW_B3.exe.config
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\bin\Debug\BTVN_LTW_B3.exe
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\bin\Debug\BTVN_LTW_B3.pdb
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\obj\Debug\btvnBuoi3_LTWinDow.csproj.AssemblyReference.cache
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\obj\Debug\btvnBuoi3_LTWinDow.Form1.resources
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\obj\Debug\BTVN_LTW_B3.Properties.Resources.resources
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\obj\Debug\btvnBuoi3_LTWinDow.csproj.GenerateResource.cache
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\obj\Debug\btvnBuoi3_LTWinDow.csproj.CoreCompileInputs.cache
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\obj\Debug\BTVN_LTW_B3.exe
+C:\clonegitAI\btvnBuoi3_LTWinDow\btvnBuoi3_LTWinDow\obj\Debug\BTVN_LTW_B3.pdb
